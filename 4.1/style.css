@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+.card {
+  text-align: center;
+  width: 200px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.gallery {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 10px;
+  object-fit: cover
+}
+
+.btn {
+  border: 1px solid green;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  border-radius: 20px;
+  color: green;
+}
+
+.btn:hover {
+  background: green;
+  color: white;
+}

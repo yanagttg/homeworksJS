@@ -1,0 +1,28 @@
+.calc {
+  width: 400px;
+  margin: 0 auto;
+  font-family: Helvetica, sans-serif;
+  
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.calc__title {
+  margin: 0;
+  font-size: 20px;
+}
+
+.calc__input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.calc__price {
+  display: inline-flex;
+  background-color: lightgreen;
+  padding: 20px;
+  border-radius: 20px;
+  gap: 3px;
+}

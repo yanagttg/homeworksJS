@@ -5,6 +5,8 @@
 
 ## Задачи:
 
+№№№ [NEW: Добавлена стр. site HW](https://yanagttg.github.io/homeworksJS/site%20HW/index.html)
+
 ### [Задачка 3.3: (Галерея изображений)](https://yanagttg.github.io/homeworksJS/3.3/)
 
 * **Описание:** Здесь будет описание (XXX).
